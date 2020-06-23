@@ -1,8 +1,75 @@
-body{
-	background-color: gray;
+.h2{
+	position: center;
+	text-align: center;
 }
-.h1{
-	font-family: Arial, Helvetica, sans-serif;
-	color: maroon;
-	font-style: italic;
+.chicken{
+	  border: 1px solid black;
+  background-color: lightblue;
+  padding:2%;
+  padding-top: 0%;
+  padding-right: 0%;
+margin: 20px;
+margin-right:70%;
+margin-top: 0%;
+width: 25%;
+}
+.ch{
+border: 1px solid black;
+background-color: red;
+padding-top: 0%;
+margin-top: 0%;
+margin-left:77%;
+margin-right: 0%;
+font-size: 100%;
+font-weight: 50%;
+}
+.beef{
+
+	  border: 1px solid black;
+  background-color: lightblue;
+  padding:2%;
+  padding-top: 0%;
+  padding-right: 0%;
+  padding-bottom: 0%;
+margin: 20px;
+margin-left: 33%;
+margin-top: -15%;
+margin-right:44%;
+width: 340px;
+
+}
+.bf{
+	border: 1px solid black;
+background-color: red;
+padding-top: 0%;
+margin-top: 0%;
+margin-left:77%;
+margin-right: 0%;
+font-size: 100%;
+font-weight: 50%;
+}
+.sushi{
+
+	  border: 1px solid black;
+  background-color: lightblue;
+  padding:2%;
+  padding-top: 0%;
+  padding-right: 0%;
+  padding-bottom: 0%;
+margin: 20px;
+margin-left: 66%;
+margin-top: -15%;
+margin-right:44%;
+width: 340px;
+
+}
+.sh{
+	border: 1px solid black;
+background-color: red;
+padding-top: 0%;
+margin-top: 0%;
+margin-left:77%;
+margin-right: 0%;
+font-size: 100%;
+font-weight: 50%;
 }
